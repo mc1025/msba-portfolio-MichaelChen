@@ -1,0 +1,9 @@
+What did you personally contribute to the most?
+- I mainly focused on understanding the data and providing insightful business recommendations that are centered around data findings.
+
+What is one decision or approach you personally advocated for and why?
+- Based on the timeframe given, I suggested that our team run the gradient boost model. Since gradient boosting models, in general, provide the best possible predictive model.
+
+What are one or two lessons learned from the case competition, and what would you add to or improve in your case if you had more time?
+- The importance of checking and cleaning your data before you start training your model. 
+- I would try to compare different training models, tune the parameters, and cross-check the most influential variables.
