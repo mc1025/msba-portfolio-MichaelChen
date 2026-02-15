@@ -1,6 +1,7 @@
 # msba-portfolio-MichaelChen
 # TruSource Customer Churn Prediction
 ##Business Problem: The central business problem TruSource is facing is customer satisfaction. High churn reduces recurring revenue stability, increases acquisition costs, and weakens brand loyalty. When customers leave, the company not only loses current revenue but also forfeits future lifetime value and potential referral opportunities. 
+
 ## Key Results
 - Strengthen Referral Programs 
 - Reduce Billing Friction for Electronic Check Customers
